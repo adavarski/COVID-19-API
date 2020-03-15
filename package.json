@@ -16,7 +16,7 @@
     "request": "*"
   },
   "repository": {
-    "url": "https://github.com/adavarski/covidAPI"
+    "url": "https://github.com/adavarski/COVID-19-API"
   },
   "license": "MIT",
   "keywords": [
